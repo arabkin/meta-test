@@ -1,3 +1,7 @@
 {
-  "projects": {}
+  "projects": {
+    "userService": "git@github.com:arabkin/userService.git",
+    "graphqlService": "git@github.com:arabkin/graphqlService.git",
+    "appService": "git@github.com:arabkin/appService.git"
+  }
 }
